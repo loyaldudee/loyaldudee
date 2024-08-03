@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyaldude&show_icons=true&locale=en&layout=compact" alt="loyaldude" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loyaldude&show_icons=true&locale=en" alt="loyaldude" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loyaldudee&" alt="loyaldudee" /></p>
