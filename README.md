@@ -96,4 +96,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=loyaldudee&show_icons=true&locale=en&theme=dark&title_color=AB47BC&icon_color=AB47BC&text_color=FFFFFF" alt="loyaldudee" />
 </div>
 
-![mayur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldudee&custom_title=Ignite&bg_color=0D1117&color=AB47BC&line=AB47BC&point=FFFFFF&area_color=AB47BC&title_color=FFFFFF&area=true)
+![mayur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldudee&custom_title=loyaldude&bg_color=0D1117&color=AB47BC&line=AB47BC&point=FFFFFF&area_color=AB47BC&title_color=FFFFFF&area=true)
