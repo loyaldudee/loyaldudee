@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pac-Man Banner" />
 </div>
@@ -18,14 +16,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/mayurrishi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mayurrishi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-rishi-420601252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-rishi-420601252/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-rishi-420601252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-rishi-420601252/" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
+  </a> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a> 
@@ -97,3 +95,6 @@
 </div>
 
 ![mayur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldudee&custom_title=loyaldude&bg_color=0D1117&color=AB47BC&line=AB47BC&point=FFFFFF&area_color=AB47BC&title_color=FFFFFF&area=true)
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=loyaldudee&theme=dark&fire=AB47BC&ring=AB47BC&currStreakLabel=AB47BC&stroke=FFFFFF&currStreakNum=FFFFFF" alt="loyaldudee's Streak Stats"/>
+</div>
