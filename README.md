@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mayur</h1>
 <h3 align="center">A passionate VR & Game developer from India</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently making my own **Game**
 
 - 💬 Ask me about **Unity engine, Blender, GMS 2**
 
