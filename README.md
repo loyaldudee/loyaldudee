@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mayurrishi2004@gmail.com**
 
-- ⚡ Fun fact **I want money**
+- ⚡ Fun fact **I want money yay**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
