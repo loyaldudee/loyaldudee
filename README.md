@@ -1,100 +1,61 @@
+<!-- Banner -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="Pac-Man Banner" />
+  <img src="https://i.imgur.com/gRqCD7X.gif" width="100%" alt="Cyberpunk VR Banner"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Mayur Rishi</h1>
-<h3 align="center">A passionate VR & Game developer from India</h3>
+<!-- Typing SVG - Neon/Cyber -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=25&duration=3000&pause=800&color=9D00FF&center=true&vCenter=true&width=600&lines=Mayur+Rishi+//+VR+%26+Game+Developer;Unity+Architect+%7C+Blender+Artist;Entering+The+Grid...;Loading+Next+Level...">
+</h1>
 
-- 🌱 I’m currently making my own **Game**
+---
 
-- 💬 Ask me about **Unity engine, Blender, GMS 2**
+### 🧬 About Me
+> **VR Engineer** & **Game Creator** navigating the digital void.
 
-- 📫 How to reach me **mayurrishi2004@gmail.com**
+- 🌱 Crafting my own **game worlds**
+- 💬 Ping me about **Unity, Blender, GMS 2**
+- 📫 **mayurrishi2004@gmail.com**
+- ⚡ Fun fact: *"In my world, loot drops are always legendary"* 🎮
 
-- ⚡ Fun fact **I want money yay**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/mayurrishi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mayurrishi1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-rishi-420601252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-rishi-420601252/" height="30" width="40"/></a>
+### 🛰 Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-171717?style=for-the-badge&logo=x&logoColor=9D00FF)](https://x.com/mayurrishi1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=9D00FF)](https://linkedin.com/in/mayur-rishi-420601252)
+
+---
+
+### ⚙ Tech Arsenal
+![Unity](https://img.shields.io/badge/Unity-171717?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-171717?style=for-the-badge&logo=blender&logoColor=F5792A)
+![React Native](https://img.shields.io/badge/React_Native-171717?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-171717?style=for-the-badge&logo=c-sharp&logoColor=9D00FF)
+![Python](https://img.shields.io/badge/Python-171717?style=for-the-badge&logo=python&logoColor=3776AB)
+![NodeJS](https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node-dot-js&logoColor=339933)
+![AWS](https://img.shields.io/badge/AWS-171717?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+
+---
+
+### 📊 Stats Interface
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loyaldudee&show_icons=true&theme=tokyonight&title_color=9D00FF&icon_color=9D00FF&text_color=FFFFFF&bg_color=0D0D0D" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loyaldudee&layout=compact&theme=tokyonight&title_color=9D00FF&text_color=FFFFFF&bg_color=0D0D0D" height="170"/>
+</div>
+
+---
+
+### 🏆 Achievements Module
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=loyaldudee&theme=darkhub&no-frame=true&margin-w=4&title=Commits,Stars,Followers,Repositories,PullRequest,Issues"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a> 
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
-  </a> 
-</p>
+---
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loyaldudee&show_icons=true&locale=en&layout=compact&theme=dark&title_color=AB47BC&icon_color=AB47BC&text_color=FFFFFF" alt="loyaldudee" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=loyaldudee&show_icons=true&locale=en&theme=dark&title_color=AB47BC&icon_color=AB47BC&text_color=FFFFFF" alt="loyaldudee" />
-</div>
+### 📈 Network Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldudee&theme=react-dark&hide_border=true&line=9D00FF&point=FFFFFF&area_color=9D00FF&area=true)
 
-![mayur's Graph](https://github-readme-activity-graph.vercel.app/graph?username=loyaldudee&custom_title=loyaldude&bg_color=0D1117&color=AB47BC&line=AB47BC&point=FFFFFF&area_color=AB47BC&title_color=FFFFFF&area=true)
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loyaldudee&theme=dark&fire=AB47BC&ring=AB47BC&currStreakLabel=AB47BC&stroke=FFFFFF&currStreakNum=FFFFFF" alt="loyaldudee's Streak Stats"/>
-</div>
+---
+
+### 🔮 Live Systems
+- **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=loyaldudee&style=flat-square&color=9D00FF)
