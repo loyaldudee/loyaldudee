@@ -13,8 +13,8 @@
 ### 🧬 About Me
 > **VR Engineer** & **Game Creator** navigating the digital void.
 
-- 🌱 Crafting my own **game worlds**
-- 💬 Ping me about **Unity, Blender, GMS 2**
+- 🌱 Crafting my own **nomnom world**
+- 💬 Ping me about **Django, Unity, Virtual Production**
 - 📫 **mayurrishi2004@gmail.com**
 - ⚡ Fun fact: *"In my world, loot drops are always legendary"* 🎮
 
